@@ -1,0 +1,8 @@
+module.exports ={
+	"code":"0",
+	"data":{"userName":"test"},
+	"extStr":"http://132.122.252.30:19650/||M0EwQ0VGNzEwQzJBOEVCODczMjE3NUFENkIxMDg3RkQ1QkYxOERGOTJCMzhENUM0RTBCMjg3MkU5RkRBM0E2QjZCMkJFNUQ0QzVGNTc3QjUwRTk5MzhBNzQwNjA5Q0MxMzcwNEU4QUJBMzM1N0UyQkY5NkZCQTIwQzA4M0Y0QjA4ODYxNkFGQzg3N0Y0Qjg1RkRBNDhFRDg3OUQyQjc4NQ==",
+	"message":"登录成功！",
+	"systemDate":"20170724110231",
+	"totalCount":0
+};
