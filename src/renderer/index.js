@@ -5,8 +5,8 @@ import './index.html';
 import { browserHistory } from 'dva/router';
 import createLoading from 'dva-loading';
 import { message } from 'antd';
-
-// 1. Initialize
+//要安装dva-cli
+// 1. Initialize：dva的使用五个步骤
 const app = dva();
 //console.info(app);
 app.model(require("./models/app"));
